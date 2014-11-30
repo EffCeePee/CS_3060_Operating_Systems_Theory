@@ -1,0 +1,2 @@
+file2array: file2array.c Makefile
+	gcc -g -o -file2array file2array.c
